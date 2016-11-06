@@ -1,0 +1,2 @@
+#LWP-Cookies-2.0
+Set-Cookie3: JSESSIONID="B3EB8B463615A99FBD868114AD3EB4DF.62"; path="/eams/"; domain="4m3.tongji.edu.cn"; path_spec; discard; HttpOnly=None; version=0
